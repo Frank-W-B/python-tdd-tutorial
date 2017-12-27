@@ -9,7 +9,7 @@ The Set and Scores classes are developed test-first, and Scores is included in t
 Run with:
 
 ```
-python -m unittest test_tennis
+python -m unittest -v test_tennis
 ```
 
 ## Randomness
@@ -19,5 +19,5 @@ The `random` module is tested through the properties of the output it generates 
 Run with:
 
 ```
-python -m unittest test_random
+python -m unittest -v test_random
 ```
